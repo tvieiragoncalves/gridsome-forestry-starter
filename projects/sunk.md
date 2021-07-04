@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/fb_img_1604396356532.jpeg"
+thumbnail: "/uploads/unnamed123.jpeg"
 title: Pineapple
 date: 2019-02-06
 categories:
