@@ -3,7 +3,7 @@ date: 2019-05-16
 year: 2019
 title: Banana
 category: Identity
-thumbnail: "/uploads/unnamed-1.jpeg"
+thumbnail: "/uploads/0e671929-9606-47bd-aa02-90583857416f-754x394.jpeg"
 categories:
 - photography
 - pink
